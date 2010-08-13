@@ -71,26 +71,6 @@
 		path = "/Users/tim/clickcount-app/clickcount-iphone/www/index.html";
 		sourceTree = "<absolute>";
 	};
-	220DDF1E1215A47B00ED9D24 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 220DDEB51215A45900ED9D24 /* index.html */;
-		name = "index.html: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 776;
-		vrLoc = 0;
-	};
-	220DDF1F1215A47B00ED9D24 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 220DDEB51215A45900ED9D24 /* index.html */;
-		name = "index.html: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 760;
-		vrLoc = 0;
-	};
 	220DDF3B1215A54900ED9D24 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 220DDEB51215A45900ED9D24 /* index.html */;
@@ -116,19 +96,7 @@
 		isa = PBXBookmark;
 		fRef = 8D1107310486CEB800E47090 /* clickcount_iphone-Info.plist */;
 	};
-	220DDF3E1215A54900ED9D24 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* clickcount_iphone-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			"UISupportedInterfaceOrientations~ipad",
-		);
-		name = "/Users/tim/clickcount-app/clickcount-iphone/clickcount_iphone-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	220DDF481215A66A00ED9D24 /* PlistBookmark */ = {
+	220DDF501215A7D600ED9D24 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* clickcount_iphone-Info.plist */;
 		fallbackIsa = PBXBookmark;
@@ -180,13 +148,10 @@
 		};
 		perUserProjectItems = {
 			220DDF1C1215A47B00ED9D24 /* PBXTextBookmark */ = 220DDF1C1215A47B00ED9D24 /* PBXTextBookmark */;
-			220DDF1E1215A47B00ED9D24 /* PBXTextBookmark */ = 220DDF1E1215A47B00ED9D24 /* PBXTextBookmark */;
-			220DDF1F1215A47B00ED9D24 /* PBXTextBookmark */ = 220DDF1F1215A47B00ED9D24 /* PBXTextBookmark */;
 			220DDF3B1215A54900ED9D24 /* PBXTextBookmark */ = 220DDF3B1215A54900ED9D24 /* PBXTextBookmark */;
 			220DDF3C1215A54900ED9D24 /* PlistBookmark */ = 220DDF3C1215A54900ED9D24 /* PlistBookmark */;
 			220DDF3D1215A54900ED9D24 /* PBXBookmark */ = 220DDF3D1215A54900ED9D24 /* PBXBookmark */;
-			220DDF3E1215A54900ED9D24 /* PlistBookmark */ = 220DDF3E1215A54900ED9D24 /* PlistBookmark */;
-			220DDF481215A66A00ED9D24 /* PlistBookmark */ = 220DDF481215A66A00ED9D24 /* PlistBookmark */;
+			220DDF501215A7D600ED9D24 /* PlistBookmark */ = 220DDF501215A7D600ED9D24 /* PlistBookmark */;
 		};
 		sourceControlManager = 220DDEA81215A42400ED9D24 /* Source Control */;
 		userBuildSettings = {
