@@ -23,7 +23,7 @@ Just read the code, and see how well it works.
 I'm only interested in jQTouch, not this PhoneGap malarky?!?!
 ---------------------------------------------------------------
 
-This project is designed to serve as a demonstration of the power of both jQTouch and PhoneGap. If you just want to see the plain HTML code, just go into the /www directory and you can see all the files and edit them as you would any other HTML file. They will even run in your normal desktop browser, although for best results you should use a WebKit based browser like Safari or Chrome.
+This project is designed to serve as a demonstration of the power of both jQTouch and PhoneGap. If you just want to see the plain HTML code, just go into the [/www directory](http://github.com/timrogers/clickcount-app/tree/master/www/) and you can see all the files and edit them as you would any other HTML file. They will even run in your normal desktop browser, although for best results you should use a WebKit based browser like Safari or Chrome.
 
 In case anyone gets confused, __the alert found in the reset button click handler will not work outside of the PhoneGap projects__ because it relies on the phonegap.js file which provides device functions to the HTML documents via Javascript. If you like, you can replace it with a normal Javascript alert() function.
 
