@@ -41,6 +41,11 @@ This project wouldn't be possible without...
 
 [PhoneGap](http://github.com/phonegap/phonegap) - this allows you to deploy the HTML, CSS and JavaScript onto iOS and Android, as well as a few other platforms like Blackberry with ease. It can be quite complicated to get into, but there are lots of bits of documentation on the [PhoneGap wiki](http://phonegap.pbworks.com). PhoneGap provides the tools to compile your web apps into native apps, and an amazing Javascript API for accessing native features, such as Geolocation and the native alert box seen in this application.
 
+Known issues
+------------
+
+- The "Back" button from the "About" screen won't work on Android 1.6. It works fine on iOS and Android 2.2, but as soon as I run it on the 1.6 emulator, it breaks. I've spent quite a while trying to fix it, but to no avail. Any ideas anyone?
+
 Some legal stuff
 ----------------
 
