@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>Clickcount</title>
+	<script src="jqtouch/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="jqtouch/jqtouch.js" type="text/javascript" charset="utf-8"></script>
+	<script src="phonegap.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="jqtouch/jqtouch.css" />
+	<link rel="stylesheet" type="text/css" href="themes/jqt/theme.css" />
+	<link rel="stylesheet" type="text/css" href="clickcount.css" />
+	<script type="text/javascript" src="clickcount.js"></script>
+	<script type="text/javascript">
+			var jQT = new $.jQTouch();		
+	</script>
+</head>
+
+<body>
+	<div id="jqt">
+	<div id="home" class="current">
+		<div class="toolbar">
+			<a class="button leftButton flip" href="#about">Help</a>
+			<h1>Clickcount</h1>
+			<a class="button reset">Reset</a>
+		</div>
+		
+		<ul class="rounded">
+			<li class="count">0</li>
+		</ul>
+		
+		<ul class="edgetoedge">
+			<li class="clickme">Click me!</li>
+		</ul>
+	</div>
+	
+	<div id="about">
+		<div class="toolbar">
+			<a class="button back" href="#">Back</a>
+			<h1>About</h1>
+		</div>
+		
+		<ul class="rounded">
+			<li class="b c">Clickcount</li>
+			<li class="c">A cross-platform mobile app built with web standards</li>
+			<li class="c">Based on jQTouch and PhoneGap</li>
+		</ul>
+		
+		<ul class="rounded">
+			<li class="c">The counter at the top shows the number of times that you have pressed the "Click me!" button. Each time you press it, the number will increase by one.</li>
+			<li class="c">You can set the counter back to zero again by pressing the "Reset" button in the toolbar.</li>
+		</ul>
+		
+		<ul class="edgetoedge">
+			<li class="c">This is not designed to be a functional app - it is a proof of concept to show how easy it is to make a simple app with web technologies.</li>
+			<li class="b c u"><a rel="external" href="http://github.com/timrogers/clickcount-app">Grab the source on GitHub</a></li>
+		</ul>
+	</div>
+			
+	
+	</div>
+	
+	
+</body>
+</html>
+	
