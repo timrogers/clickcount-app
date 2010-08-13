@@ -8,6 +8,11 @@ Clickcount is a mobile application based on the jQTouch and PhoneGap projects. I
 
 This is meant to be a demo of the capabilities of PhoneGap alongside web standard technologies like Javascript, HTML and CSS. Isn't it great that you can make one page of code and it will run on all the biggest platforms?
 
+What does it do?
+----------------
+
+Well, not much. But then again, it isn't really meant to. There is a counter at the top of the screen, and a button which, when clicked, increments the counter by 1. Hence the name Clickcount ;) You can also reset the counter with a button on the toolbar (which will also bring up a platform native alert provided by the PhoneGap JS API) and view a little about screen using the buttons on the toolbar.
+
 How should I use this?
 ----------------------
 
