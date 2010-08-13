@@ -11,7 +11,8 @@ $(document).ready(function() {
 	
 	$('a.reset').bind('touchend', function() { /* When the "Reset" button in the toolbar is clicked, this will reset the counter back to zero. */
 		$('li.count').html("0");
-		alert("The counter has been reset to 0.");
+		navigator.notification.alert("The counter has been reset back to zero.", 
+                                'Resetting counter...', 'Okay, great!');
 	});
 	
 });
