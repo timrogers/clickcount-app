@@ -16,7 +16,7 @@ Well, not much. But then again, it isn't really meant to. There is a counter at 
 How should I use this?
 ----------------------
 
-However you want. This project is just for people to see how easy it is to make mobile applications. Feel free to even release this application on the Android Market and iTunes App Store if you want - I haven't bothered.
+However you want. This project is just for people to see how easy it is to make mobile applications. Feel free to even release this application onto the relevant app stores if you like, although I have already uploaded it to the Android market.
 
 Just read the code, and see how well it works.
 
@@ -30,9 +30,9 @@ In case anyone gets confused, __the alert found in the reset button click handle
 How do I build these applications so I can try them out myself?
 ----------------------------------------------------------------
 
-__iOS__ - In order to try out the iPhone version, you will need to install the iPhone SDK from the Apple Developer Center. Once you've done that, you should open the clickcount-iphone.xcodeproj file in order to get the project running in Xcode. Then, you can just click "Build and Run" in the toolbar. If that doesn't work, you might need to go into Project...Edit Project Settings to select the correct SDK target. Doing this should open the application in the simulator, ready to be tested. If you'd like to try this out on your actual Apple device, you will need a paid Apple developer account or you will need to jailbreak your device. Both options are beyond the scope of this short guide. Or at least, it was short when I started.
+__iOS__ - In order to try out the iPhone version, you will need to install the iPhone SDK from the Apple Developer Center. Once you've done that, you should open the clickcount-iphone.xcodeproj file in order to get the project running in Xcode. Then, you can just click "Build and Run" in the toolbar. If that doesn't work, you might need to go into Project...Edit Project Settings to select the correct SDK target. Doing this should open the application in the simulator, ready to be tested. If you'd like to try this out on your actual Apple device, you will need a paid Apple developer account or you will need to jailbreak your device. Both options are beyond the scope of this short guide. Or at least, it was short when I started. Once I get my iPhone developer account sorted out, I will probably upload this to the store for demo purposes.
 
-__Android__ - For your convenience, I have signed and built a copy of the application using DroidGap and Eclipse in the build/ directory. You will be able to install the .apk file onto your device, if you are lucky. If not, your best bet is to install the Eclipse development studio and the Android Developer Tools so you can build it yourself, edit it and run it in the simulator. There is a really greay [guide](http://phonegap.pbworks.com/Getting-started-with-Android-PhoneGap-in-Eclipse) on the PhoneGap wiki which explains how to setup Eclipse and how to build the application.
+__Android__ - You can download this app from the Android Market for free __right now__. Just search Clickcount and it should come up! For your convenience, I have also signed and built a copy of the application using DroidGap and Eclipse in the build/ directory. You will be able to install the .apk file onto your device, if you are lucky. If not, your best bet is to install the Eclipse development studio and the Android Developer Tools so you can build it yourself, edit it and run it in the simulator. There is a really greay [guide](http://phonegap.pbworks.com/Getting-started-with-Android-PhoneGap-in-Eclipse) on the PhoneGap wiki which explains how to setup Eclipse and how to build the application.
 
 This project wouldn't be possible without...
 ---------------------------------------------
