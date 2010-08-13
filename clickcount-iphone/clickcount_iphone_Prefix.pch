@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'clickcount-iphone' target in the 'clickcount-iphone' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

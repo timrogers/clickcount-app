@@ -1,0 +1,1247 @@
+Tclickcount-iphone
+v7
+r0
+t303408746.250262
+cCheck dependencies
+cProcessInfoPlistFile /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/Info.plist clickcount_iphone-Info.plist
+cPhaseScriptExecution "Copy PhoneGap Javascript" /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-30E9A9A110B758320022D3BA.sh
+cPhaseScriptExecution "Touch www folder" /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-304B58A110DAC018002A0835.sh
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/www www
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/VERSION /Users/tim/Documents/PhoneGapLib/VERSION
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/icon.png icon.png
+cCopyPlistFile /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/PhoneGap.plist PhoneGap.plist
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/clickcount.css ../www/clickcount.css
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/index.html ../www/index.html
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/jqtouch.css ../www/jqtouch/jqtouch.css
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/actionButton.png ../www/themes/apple/img/actionButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/backButton.png ../www/themes/apple/img/backButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/cancel.png ../www/themes/apple/img/cancel.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/chevron.png ../www/themes/apple/img/chevron.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/chevron.png ../www/themes/jqt/img/chevron.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png ../www/themes/apple/img/grayButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png ../www/themes/jqt/img/grayButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png ../www/themes/apple/img/greenButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png ../www/themes/jqt/img/greenButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/listArrowSel.png ../www/themes/apple/img/listArrowSel.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/listGroup.png ../www/themes/apple/img/listGroup.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/loading.gif ../www/themes/apple/img/loading.gif
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/loading.gif ../www/themes/jqt/img/loading.gif
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/on_off.png ../www/themes/apple/img/on_off.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/on_off.png ../www/themes/jqt/img/on_off.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/pinstripes.png ../www/themes/apple/img/pinstripes.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/redButton.png ../www/themes/apple/img/redButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/redButton.png ../www/themes/jqt/img/redButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/selection.png ../www/themes/apple/img/selection.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/thumb.png ../www/themes/apple/img/thumb.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggle.png ../www/themes/apple/img/toggle.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggle.png ../www/themes/jqt/img/toggle.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png ../www/themes/apple/img/toggleOn.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png ../www/themes/jqt/img/toggleOn.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png ../www/themes/apple/img/toolbar.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png ../www/themes/jqt/img/toolbar.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toolButton.png ../www/themes/apple/img/toolButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png ../www/themes/apple/img/whiteButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png ../www/themes/jqt/img/whiteButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/theme.css ../www/themes/apple/theme.css
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/theme.css ../www/themes/jqt/theme.css
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/activeButton.png ../www/themes/jqt/img/activeButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/back_button.png ../www/themes/jqt/img/back_button.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/back_button_clicked.png ../www/themes/jqt/img/back_button_clicked.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/blueButton.png ../www/themes/jqt/img/blueButton.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/button.png ../www/themes/jqt/img/button.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/button_clicked.png ../www/themes/jqt/img/button_clicked.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/chevron_circle.png ../www/themes/jqt/img/chevron_circle.png
+cCpResource build/Debug-iphonesimulator/clickcount-iphone.app/rowhead.png ../www/themes/jqt/img/rowhead.png
+cProcessPCH /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/clickcount_iphone_Prefix-gosvobasvbjjnibrhkrrgxepykce/clickcount_iphone_Prefix.pch.gch clickcount_iphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/main.o /Users/tim/clickcount-app/clickcount-iphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount_iphoneAppDelegate.o /Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone normal i386
+cGenerateDSYMFile /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app.dSYM /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone
+cTouch /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C6065160000000000000132
+t1281385750
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004BFF3B87000000000006F150
+t1275018119
+s454992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBook.framework/Headers/ABAddressBook.h
+c000000004BFF3B830000000000000A8C
+t1275018115
+s2700
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004C04722E0000000000147690
+t1275359790
+s1341072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004C0472220000000000000202
+t1275359778
+s514
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BFF3B7600000000001C8900
+t1275018102
+s1870080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004BFF3B620000000000010A78
+t1275018082
+s68216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BFDFE57000000000018BC00
+t1274936919
+s1620992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C0473250000000000155C80
+t1275360037
+s1399936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004BFF3B790000000000055950
+t1275018105
+s350544
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BFDFDAA000000000005E690
+t1274936746
+s386704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h
+c000000004C0470BB0000000000001971
+t1275359419
+s6513
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBar.h
+c000000004C0470BB0000000000000BF1
+t1275359419
+s3057
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h
+c000000004C0470BB0000000000000704
+t1275359419
+s1796
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/tim/Documents/PhoneGapLib/Classes/Contacts.h
+c000000004C0EBADA0000000000000A53
+t1276033754
+s2643
+i<Foundation/Foundation.h>
+i<AddressBook/ABAddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"PhoneGapCommand.h"
+
+N/Users/tim/Documents/PhoneGapLib/Classes/DebugConsole.h
+c000000004C0EBADA0000000000000170
+t1276033754
+s368
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"PhoneGapCommand.h"
+
+N/Users/tim/Documents/PhoneGapLib/Classes/JSON/JSON.h
+c000000004C0EBADA00000000000008F9
+t1276033754
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/tim/Documents/PhoneGapLib/Classes/Location.h
+c000000004C0EBADA0000000000000530
+t1276033754
+s1328
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"PhoneGapCommand.h"
+
+N/Users/tim/Documents/PhoneGapLib/Classes/PhoneGapCommand.h
+c000000004C0EBADA00000000000002ED
+t1276033754
+s749
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tim/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004C0EBADA00000000000006D8
+t1276033754
+s1752
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UINavigationController.h>
+i"JSON/JSON.h"
+i"Location.h"
+i"Sound.h"
+i"Contacts.h"
+i"DebugConsole.h"
+i"UIControls.h"
+
+N/Users/tim/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004C0EBADA0000000000000293
+t1276033754
+s659
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/tim/Documents/PhoneGapLib/Classes/Sound.h
+c000000004C0EBADA000000000000060C
+t1276033754
+s1548
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"PhoneGapCommand.h"
+
+N/Users/tim/Documents/PhoneGapLib/Classes/UIControls.h
+c000000004C0EBADA000000000000066A
+t1276033754
+s1642
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<UIKit/UITabBar.h>
+i<UIKit/UIToolbar.h>
+i"PhoneGapCommand.h"
+
+N/Users/tim/Documents/PhoneGapLib/VERSION
+c000000004C0EBADA0000000000000005
+t1276033754
+s5
+
+N/Users/tim/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a
+c000000004C656EE8000000000011FE18
+t1281715944
+s1179160
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/clickcount.css
+c000000004C65699100000000000001C0
+t1281714577
+s448
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/index.html
+c000000004C6569910000000000000836
+t1281714577
+s2102
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/jqtouch/jqtouch.css
+c000000004C6569910000000000001D25
+t1281714577
+s7461
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/actionButton.png
+c000000004C6569910000000000000205
+t1281714577
+s517
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/backButton.png
+c000000004C656991000000000000030F
+t1281714577
+s783
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/cancel.png
+c000000004C656991000000000000016A
+t1281714577
+s362
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/chevron.png
+c000000004C6569910000000000000103
+t1281714577
+s259
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/grayButton.png
+c000000004C65699100000000000003AF
+t1281714577
+s943
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/greenButton.png
+c000000004C656991000000000000078F
+t1281714577
+s1935
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/listArrowSel.png
+c000000004C6569910000000000000134
+t1281714577
+s308
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/listGroup.png
+c000000004C6569910000000000000B2F
+t1281714577
+s2863
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/loading.gif
+c000000004C656991000000000000059B
+t1281714577
+s1435
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/on_off.png
+c000000004C6569910000000000000A4A
+t1281714577
+s2634
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/pinstripes.png
+c000000004C6569910000000000000075
+t1281714577
+s117
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/redButton.png
+c000000004C6569910000000000000787
+t1281714577
+s1927
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/selection.png
+c000000004C656991000000000000009F
+t1281714577
+s159
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/thumb.png
+c000000004C6569910000000000000B12
+t1281714577
+s2834
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toggle.png
+c000000004C6569910000000000000AFF
+t1281714577
+s2815
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toggleOn.png
+c000000004C65699100000000000000A3
+t1281714577
+s163
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toolButton.png
+c000000004C6569910000000000000209
+t1281714577
+s521
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toolbar.png
+c000000004C65699100000000000000A8
+t1281714577
+s168
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/whiteButton.png
+c000000004C65699100000000000003D2
+t1281714577
+s978
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/theme.css
+c000000004C6569910000000000003AE9
+t1281714577
+s15081
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/activeButton.png
+c000000004C6569910000000000000723
+t1281714577
+s1827
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/back_button.png
+c000000004C6569910000000000000EAC
+t1281714577
+s3756
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/back_button_clicked.png
+c000000004C6569910000000000000E9D
+t1281714577
+s3741
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/blueButton.png
+c000000004C65699100000000000007BB
+t1281714577
+s1979
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/button.png
+c000000004C6569910000000000000CF3
+t1281714577
+s3315
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/button_clicked.png
+c000000004C6569910000000000000CD3
+t1281714577
+s3283
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/chevron.png
+c000000004C6569910000000000000C02
+t1281714577
+s3074
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/chevron_circle.png
+c000000004C65699100000000000004DB
+t1281714577
+s1243
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/grayButton.png
+c000000004C65699100000000000003AF
+t1281714577
+s943
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/greenButton.png
+c000000004C656991000000000000078F
+t1281714577
+s1935
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/loading.gif
+c000000004C65699100000000000009E8
+t1281714577
+s2536
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/on_off.png
+c000000004C65699100000000000009C0
+t1281714577
+s2496
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/redButton.png
+c000000004C6569910000000000000787
+t1281714577
+s1927
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/rowhead.png
+c000000004C65699100000000000000AB
+t1281714577
+s171
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toggle.png
+c000000004C6569910000000000000AFF
+t1281714577
+s2815
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toggleOn.png
+c000000004C65699100000000000000A3
+t1281714577
+s163
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toolbar.png
+c000000004C6569910000000000000325
+t1281714577
+s805
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/whiteButton.png
+c000000004C65699100000000000003D2
+t1281714577
+s978
+
+N/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/theme.css
+c000000004C6569910000000000003844
+t1281714577
+s14404
+
+N/Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.h
+c000000004C656C9E000000000000011C
+t1281715358
+s284
+i<UIKit/UIKit.h>
+i"PhoneGapDelegate.h"
+
+N/Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.m
+c000000004C656C9E0000000000000814
+t1281715358
+s2068
+i"clickcount_iphoneAppDelegate.h"
+i"PhoneGapViewController.h"
+
+N/Users/tim/clickcount-app/clickcount-iphone/Default.png
+c000000004C656EDC0000000000015D5A
+t1281715932
+s89434
+
+N/Users/tim/clickcount-app/clickcount-iphone/PhoneGap.plist
+c000000004C656C9E000000000000027E
+t1281715358
+s638
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app
+t1281715946
+s1394
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app.dSYM
+t1281715946
+s102
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/Default.png
+t1281715944
+s89434
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/Info.plist
+t1281715944
+s938
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/PhoneGap.plist
+t1281715944
+s255
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/PkgInfo
+t1281715944
+s8
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/VERSION
+t1281715944
+s5
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/actionButton.png
+t1281715944
+s517
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/activeButton.png
+t1281715944
+s1827
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/backButton.png
+t1281715944
+s783
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/back_button.png
+t1281715944
+s3756
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/back_button_clicked.png
+t1281715944
+s3741
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/blueButton.png
+t1281715944
+s1979
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/button.png
+t1281715944
+s3315
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/button_clicked.png
+t1281715944
+s3283
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/cancel.png
+t1281715944
+s362
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/chevron.png
+t1281715944
+s259
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/chevron_circle.png
+t1281715944
+s1243
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone
+t1281715946
+s264188
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount.css
+t1281715944
+s448
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png
+t1281715944
+s943
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png
+t1281715944
+s1935
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/icon.png
+t1281715944
+s58289
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/index.html
+t1281715944
+s2102
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/jqtouch.css
+t1281715944
+s7461
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/listArrowSel.png
+t1281715944
+s308
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/listGroup.png
+t1281715944
+s2863
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/loading.gif
+t1281715944
+s2536
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/on_off.png
+t1281715944
+s2634
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/pinstripes.png
+t1281715944
+s117
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/redButton.png
+t1281715944
+s1927
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/rowhead.png
+t1281715944
+s171
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/selection.png
+t1281715944
+s159
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/theme.css
+t1281715944
+s14404
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/thumb.png
+t1281715944
+s2834
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toggle.png
+t1281715944
+s2815
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png
+t1281715944
+s163
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toolButton.png
+t1281715944
+s521
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png
+t1281715944
+s805
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png
+t1281715944
+s978
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/www
+t1281715944
+s306
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount-iphone.LinkFileList
+c000000004C656EE8000000000000013E
+t1281715944
+s318
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount_iphoneAppDelegate.o
+t1281715945
+s46520
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/main.o
+t1281715945
+s6504
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-304B58A110DAC018002A0835.sh
+c000000004C656EE80000000000000027
+t1281715944
+s39
+
+N/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-30E9A9A110B758320022D3BA.sh
+c000000004C656EE800000000000000BE
+t1281715944
+s190
+
+N/Users/tim/clickcount-app/clickcount-iphone/clickcount_iphone_Prefix.pch
+c000000004C656C9E00000000000000CB
+t1281715358
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tim/clickcount-app/clickcount-iphone/icon.png
+c000000004C656991000000000000E3B1
+t1281714577
+s58289
+
+N/Users/tim/clickcount-app/clickcount-iphone/main.m
+c000000004C656C9E0000000000000189
+t1281715358
+s393
+i<UIKit/UIKit.h>
+
+N/Users/tim/clickcount-app/clickcount-iphone/www
+c000000004C656EE80000000000000154
+t1281715944
+s340
+
+N/var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/clickcount_iphone_Prefix-gosvobasvbjjnibrhkrrgxepykce/clickcount_iphone_Prefix.pch.gch
+t1281715945
+s15232016
+
+Nclickcount_iphone-Info.plist
+c000000004C656EE20000000000000585
+t1281715938
+s1413
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303408744#303408744#0(2587"[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/chevron.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/loading.gif[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/on_off.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/redButton.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toggle.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png[WARN]Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/theme.css[WARN]warning: no rule to process file '$(PROJECT_DIR)/../www/body-height-fix.js' of type sourcecode.javascript for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/../www/clickcount.js' of type sourcecode.javascript for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/../www/jqtouch/jqtouch.js' of type sourcecode.javascript for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/../www/jqtouch/jquery-1.4.2.js' of type sourcecode.javascript for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/../www/jqtouch/jquery-1.4.2.min.js' of type sourcecode.javascript for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/../www/phonegap.js' of type sourcecode.javascript for architecture i38617(22@154"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/chevron.png303408744#18446744073709551615#0#0(1@0"0(22@157"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png303408744#18446744073709551615#0#0(1@0"0(22@158"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png303408744#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/loading.gif303408744#18446744073709551615#0#0(1@0"0(22@153"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/on_off.png303408744#18446744073709551615#0#0(1@0"0(22@156"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/redButton.png303408744#18446744073709551615#0#0(1@0"0(22@153"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toggle.png303408744#18446744073709551615#0#0(1@0"0(22@155"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png303408744#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png303408744#18446744073709551615#0#0(1@0"0(22@158"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png303408744#18446744073709551615#0#0(1@0"0(22@152"Warning: Multiple build commands for output file /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/theme.css303408744#18446744073709551615#0#0(1@0"0(22@127"warning: no rule to process file '$(PROJECT_DIR)/../www/body-height-fix.js' of type sourcecode.javascript for architecture i386303408744#18446744073709551615#0#0(1@0"0(22@122"warning: no rule to process file '$(PROJECT_DIR)/../www/clickcount.js' of type sourcecode.javascript for architecture i386303408744#18446744073709551615#0#0(1@0"0(22@127"warning: no rule to process file '$(PROJECT_DIR)/../www/jqtouch/jqtouch.js' of type sourcecode.javascript for architecture i386303408744#18446744073709551615#0#0(1@0"0(22@132"warning: no rule to process file '$(PROJECT_DIR)/../www/jqtouch/jquery-1.4.2.js' of type sourcecode.javascript for architecture i386303408744#18446744073709551615#0#0(1@0"0(22@136"warning: no rule to process file '$(PROJECT_DIR)/../www/jqtouch/jquery-1.4.2.min.js' of type sourcecode.javascript for architecture i386303408744#18446744073709551615#0#0(1@0"0(22@120"warning: no rule to process file '$(PROJECT_DIR)/../www/phonegap.js' of type sourcecode.javascript for architecture i386303408744#18446744073709551615#0#0(1@0"0(0#1#0"8609499200#0"0#
+
+CCompileC build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount_iphoneAppDelegate.o /Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303408745.699879
+e303408745.843554
+r1
+xCompileC
+xbuild/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount_iphoneAppDelegate.o
+x/Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.m303408745#303408745#0(0"0(0#0#82"/Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.m8611840416#2260"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-generated-files.hmap -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-own-target-headers.hmap -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-all-target-headers.hmap -iquote /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-project-headers.hmap -F/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator -iquote/Users/tim/Documents/PhoneGapLib/Classes -I/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/include -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources/i386 -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources -include /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/clickcount_iphone_Prefix-gosvobasvbjjnibrhkrrgxepykce/clickcount_iphone_Prefix.pch -c /Users/tim/clickcount-app/clickcount-iphone/Classes/clickcount_iphoneAppDelegate.m -o /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount_iphoneAppDelegate.o0#
+
+CCompileC build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/main.o /Users/tim/clickcount-app/clickcount-iphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303408745.672994
+e303408745.773644
+r1
+xCompileC
+xbuild/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/main.o
+x/Users/tim/clickcount-app/clickcount-iphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/tim/clickcount-app/clickcount-iphone/main.m303408745#303408745#0(0"0(0#0#50"/Users/tim/clickcount-app/clickcount-iphone/main.m8612079680#2204"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-generated-files.hmap -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-own-target-headers.hmap -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-all-target-headers.hmap -iquote /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-project-headers.hmap -F/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator -iquote/Users/tim/Documents/PhoneGapLib/Classes -I/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/include -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources/i386 -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources -include /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/clickcount_iphone_Prefix-gosvobasvbjjnibrhkrrgxepykce/clickcount_iphone_Prefix.pch -c /Users/tim/clickcount-app/clickcount-iphone/main.m -o /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/main.o0#
+
+CCopyPlistFile /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/PhoneGap.plist PhoneGap.plist
+s303408744.585429
+e303408744.781191
+r1
+xCopyPlistFile
+x/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/PhoneGap.plist
+xPhoneGap.plist
+lSLF07#2@19"Copy PhoneGap.plist303408744#303408744#0(0"0(0#0#58"/Users/tim/clickcount-app/clickcount-iphone/PhoneGap.plist8609693696#409"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 PhoneGap.plist --outdir /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/Default.png Default.png
+s303408744.581388
+e303408744.612757
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png303408744#303408744#0(0"0(0#0#55"/Users/tim/clickcount-app/clickcount-iphone/Default.png8609921184#480"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/Default.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/VERSION /Users/tim/Documents/PhoneGapLib/VERSION
+s303408744.580698
+e303408744.606107
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/VERSION
+x/Users/tim/Documents/PhoneGapLib/VERSION
+lSLF07#2@45"Copy /Users/tim/Documents/PhoneGapLib/VERSION303408744#303408744#0(0"0(0#0#40"/Users/tim/Documents/PhoneGapLib/VERSION8610024832#465"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/Documents/PhoneGapLib/VERSION /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/actionButton.png ../www/themes/apple/img/actionButton.png
+s303408744.700374
+e303408744.714360
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/actionButton.png
+x../www/themes/apple/img/actionButton.png
+lSLF07#2@45"Copy ../www/themes/apple/img/actionButton.png303408744#303408744#0(0"0(0#0#84"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/actionButton.png8612032352#509"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/actionButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/activeButton.png ../www/themes/jqt/img/activeButton.png
+s303408744.807516
+e303408744.850015
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/activeButton.png
+x../www/themes/jqt/img/activeButton.png
+lSLF07#2@43"Copy ../www/themes/jqt/img/activeButton.png303408744#303408744#0(0"0(0#0#82"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/activeButton.png8611581248#507"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/activeButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/backButton.png ../www/themes/apple/img/backButton.png
+s303408744.701537
+e303408744.726739
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/backButton.png
+x../www/themes/apple/img/backButton.png
+lSLF07#2@43"Copy ../www/themes/apple/img/backButton.png303408744#303408744#0(0"0(0#0#82"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/backButton.png8611588800#507"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/backButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/back_button.png ../www/themes/jqt/img/back_button.png
+s303408744.809996
+e303408744.835848
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/back_button.png
+x../www/themes/jqt/img/back_button.png
+lSLF07#2@42"Copy ../www/themes/jqt/img/back_button.png303408744#303408744#0(0"0(0#0#81"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/back_button.png8609505696#506"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/back_button.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/back_button_clicked.png ../www/themes/jqt/img/back_button_clicked.png
+s303408744.812149
+e303408744.854022
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/back_button_clicked.png
+x../www/themes/jqt/img/back_button_clicked.png
+lSLF07#2@50"Copy ../www/themes/jqt/img/back_button_clicked.png303408744#303408744#0(0"0(0#0#89"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/back_button_clicked.png8610640352#514"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/back_button_clicked.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/blueButton.png ../www/themes/jqt/img/blueButton.png
+s303408744.814113
+e303408744.840734
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/blueButton.png
+x../www/themes/jqt/img/blueButton.png
+lSLF07#2@41"Copy ../www/themes/jqt/img/blueButton.png303408744#303408744#0(0"0(0#0#80"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/blueButton.png8608967552#505"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/blueButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/button.png ../www/themes/jqt/img/button.png
+s303408744.817430
+e303408744.863992
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/button.png
+x../www/themes/jqt/img/button.png
+lSLF07#2@37"Copy ../www/themes/jqt/img/button.png303408744#303408744#0(0"0(0#0#76"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/button.png8613491808#501"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/button.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/button_clicked.png ../www/themes/jqt/img/button_clicked.png
+s303408744.832143
+e303408744.853157
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/button_clicked.png
+x../www/themes/jqt/img/button_clicked.png
+lSLF07#2@45"Copy ../www/themes/jqt/img/button_clicked.png303408744#303408744#0(0"0(0#0#84"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/button_clicked.png8613709344#509"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/button_clicked.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/cancel.png ../www/themes/apple/img/cancel.png
+s303408744.704666
+e303408744.750464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/cancel.png
+x../www/themes/apple/img/cancel.png
+lSLF07#2@39"Copy ../www/themes/apple/img/cancel.png303408744#303408744#0(0"0(0#0#78"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/cancel.png8613496000#503"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/cancel.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/chevron.png ../www/themes/apple/img/chevron.png
+s303408744.706507
+e303408744.756931
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/chevron.png
+x../www/themes/apple/img/chevron.png
+lSLF07#2@40"Copy ../www/themes/apple/img/chevron.png303408744#303408744#0(0"0(0#0#79"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/chevron.png8611550272#504"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/chevron.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/chevron.png ../www/themes/jqt/img/chevron.png
+s303408744.708614
+e303408744.750596
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/chevron.png
+x../www/themes/jqt/img/chevron.png
+lSLF07#2@38"Copy ../www/themes/jqt/img/chevron.png303408744#303408744#0(0"0(0#0#77"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/chevron.png8611361760#502"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/chevron.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/chevron_circle.png ../www/themes/jqt/img/chevron_circle.png
+s303408744.836298
+e303408744.866093
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/chevron_circle.png
+x../www/themes/jqt/img/chevron_circle.png
+lSLF07#2@45"Copy ../www/themes/jqt/img/chevron_circle.png303408744#303408744#0(0"0(0#0#84"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/chevron_circle.png8613535520#509"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/chevron_circle.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/clickcount.css ../www/clickcount.css
+s303408744.688969
+e303408744.714109
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/clickcount.css
+x../www/clickcount.css
+lSLF07#2@26"Copy ../www/clickcount.css303408744#303408744#0(0"0(0#0#65"/Users/tim/clickcount-app/clickcount-iphone/../www/clickcount.css8603386880#490"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/clickcount.css /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png ../www/themes/apple/img/grayButton.png
+s303408744.711460
+e303408744.750714
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png
+x../www/themes/apple/img/grayButton.png
+lSLF07#2@43"Copy ../www/themes/apple/img/grayButton.png303408744#303408744#0(0"0(0#0#82"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/grayButton.png8611198464#507"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/grayButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png ../www/themes/jqt/img/grayButton.png
+s303408744.714523
+e303408744.761205
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/grayButton.png
+x../www/themes/jqt/img/grayButton.png
+lSLF07#2@41"Copy ../www/themes/jqt/img/grayButton.png303408744#303408744#0(0"0(0#0#80"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/grayButton.png8610497696#505"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/grayButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png ../www/themes/apple/img/greenButton.png
+s303408744.717749
+e303408744.761456
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png
+x../www/themes/apple/img/greenButton.png
+lSLF07#2@44"Copy ../www/themes/apple/img/greenButton.png303408744#303408744#0(0"0(0#0#83"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/greenButton.png8610253792#508"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/greenButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png ../www/themes/jqt/img/greenButton.png
+s303408744.726817
+e303408744.756795
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/greenButton.png
+x../www/themes/jqt/img/greenButton.png
+lSLF07#2@42"Copy ../www/themes/jqt/img/greenButton.png303408744#303408744#0(0"0(0#0#81"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/greenButton.png8609768736#506"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/greenButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/icon.png icon.png
+s303408744.583351
+e303408744.611834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png303408744#303408744#0(0"0(0#0#52"/Users/tim/clickcount-app/clickcount-iphone/icon.png8609751232#477"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/icon.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/index.html ../www/index.html
+s303408744.691259
+e303408744.726494
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/index.html
+x../www/index.html
+lSLF07#2@22"Copy ../www/index.html303408744#303408744#0(0"0(0#0#61"/Users/tim/clickcount-app/clickcount-iphone/../www/index.html8605349536#486"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/index.html /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/jqtouch.css ../www/jqtouch/jqtouch.css
+s303408744.693313
+e303408744.726623
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/jqtouch.css
+x../www/jqtouch/jqtouch.css
+lSLF07#2@31"Copy ../www/jqtouch/jqtouch.css303408744#303408744#0(0"0(0#0#70"/Users/tim/clickcount-app/clickcount-iphone/../www/jqtouch/jqtouch.css8598720160#495"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/jqtouch/jqtouch.css /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/listArrowSel.png ../www/themes/apple/img/listArrowSel.png
+s303408744.731877
+e303408744.761337
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/listArrowSel.png
+x../www/themes/apple/img/listArrowSel.png
+lSLF07#2@45"Copy ../www/themes/apple/img/listArrowSel.png303408744#303408744#0(0"0(0#0#84"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/listArrowSel.png8609625184#509"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/listArrowSel.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/listGroup.png ../www/themes/apple/img/listGroup.png
+s303408744.748335
+e303408744.768012
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/listGroup.png
+x../www/themes/apple/img/listGroup.png
+lSLF07#2@42"Copy ../www/themes/apple/img/listGroup.png303408744#303408744#0(0"0(0#0#81"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/listGroup.png8611732736#506"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/listGroup.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/loading.gif ../www/themes/apple/img/loading.gif
+s303408744.750795
+e303408744.786583
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/loading.gif
+x../www/themes/apple/img/loading.gif
+lSLF07#2@40"Copy ../www/themes/apple/img/loading.gif303408744#303408744#0(0"0(0#0#79"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/loading.gif8611553280#504"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/loading.gif /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/loading.gif ../www/themes/jqt/img/loading.gif
+s303408744.752592
+e303408744.789024
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/loading.gif
+x../www/themes/jqt/img/loading.gif
+lSLF07#2@38"Copy ../www/themes/jqt/img/loading.gif303408744#303408744#0(0"0(0#0#77"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/loading.gif8611489440#502"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/loading.gif /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/on_off.png ../www/themes/apple/img/on_off.png
+s303408744.754585
+e303408744.795906
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/on_off.png
+x../www/themes/apple/img/on_off.png
+lSLF07#2@39"Copy ../www/themes/apple/img/on_off.png303408744#303408744#0(0"0(0#0#78"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/on_off.png8611389696#503"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/on_off.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/on_off.png ../www/themes/jqt/img/on_off.png
+s303408744.757009
+e303408744.788907
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/on_off.png
+x../www/themes/jqt/img/on_off.png
+lSLF07#2@37"Copy ../www/themes/jqt/img/on_off.png303408744#303408744#0(0"0(0#0#76"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/on_off.png8610609120#501"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/on_off.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/pinstripes.png ../www/themes/apple/img/pinstripes.png
+s303408744.758928
+e303408744.803102
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/pinstripes.png
+x../www/themes/apple/img/pinstripes.png
+lSLF07#2@43"Copy ../www/themes/apple/img/pinstripes.png303408744#303408744#0(0"0(0#0#82"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/pinstripes.png8610051136#507"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/pinstripes.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/redButton.png ../www/themes/apple/img/redButton.png
+s303408744.761539
+e303408744.788776
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/redButton.png
+x../www/themes/apple/img/redButton.png
+lSLF07#2@42"Copy ../www/themes/apple/img/redButton.png303408744#303408744#0(0"0(0#0#81"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/redButton.png8609164480#506"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/redButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/redButton.png ../www/themes/jqt/img/redButton.png
+s303408744.763906
+e303408744.783571
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/redButton.png
+x../www/themes/jqt/img/redButton.png
+lSLF07#2@40"Copy ../www/themes/jqt/img/redButton.png303408744#303408744#0(0"0(0#0#79"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/redButton.png8607272160#504"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/redButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/rowhead.png ../www/themes/jqt/img/rowhead.png
+s303408744.838288
+e303408744.864177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/rowhead.png
+x../www/themes/jqt/img/rowhead.png
+lSLF07#2@38"Copy ../www/themes/jqt/img/rowhead.png303408744#303408744#0(0"0(0#0#77"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/rowhead.png8613245216#502"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/rowhead.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/selection.png ../www/themes/apple/img/selection.png
+s303408744.765921
+e303408744.795651
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/selection.png
+x../www/themes/apple/img/selection.png
+lSLF07#2@42"Copy ../www/themes/apple/img/selection.png303408744#303408744#0(0"0(0#0#81"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/selection.png8604273664#506"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/selection.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/theme.css ../www/themes/apple/theme.css
+s303408744.803181
+e303408744.832041
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/theme.css
+x../www/themes/apple/theme.css
+lSLF07#2@34"Copy ../www/themes/apple/theme.css303408744#303408744#0(0"0(0#0#73"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/theme.css8590256384#498"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/theme.css /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/theme.css ../www/themes/jqt/theme.css
+s303408744.805587
+e303408744.846326
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/theme.css
+x../www/themes/jqt/theme.css
+lSLF07#2@32"Copy ../www/themes/jqt/theme.css303408744#303408744#0(0"0(0#0#71"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/theme.css8611821824#496"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/theme.css /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/thumb.png ../www/themes/apple/img/thumb.png
+s303408744.768105
+e303408744.795788
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/thumb.png
+x../www/themes/apple/img/thumb.png
+lSLF07#2@38"Copy ../www/themes/apple/img/thumb.png303408744#303408744#0(0"0(0#0#77"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/thumb.png8603359904#502"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/thumb.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggle.png ../www/themes/apple/img/toggle.png
+s303408744.781445
+e303408744.802983
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/toggle.png
+x../www/themes/apple/img/toggle.png
+lSLF07#2@39"Copy ../www/themes/apple/img/toggle.png303408744#303408744#0(0"0(0#0#78"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toggle.png8601683936#503"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toggle.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggle.png ../www/themes/jqt/img/toggle.png
+s303408744.783658
+e303408744.802853
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/toggle.png
+x../www/themes/jqt/img/toggle.png
+lSLF07#2@37"Copy ../www/themes/jqt/img/toggle.png303408744#303408744#0(0"0(0#0#76"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toggle.png8589988832#501"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toggle.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png ../www/themes/apple/img/toggleOn.png
+s303408744.786674
+e303408744.835988
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png
+x../www/themes/apple/img/toggleOn.png
+lSLF07#2@41"Copy ../www/themes/apple/img/toggleOn.png303408744#303408744#0(0"0(0#0#80"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toggleOn.png8610200000#505"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toggleOn.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png ../www/themes/jqt/img/toggleOn.png
+s303408744.789100
+e303408744.817342
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/toggleOn.png
+x../www/themes/jqt/img/toggleOn.png
+lSLF07#2@39"Copy ../www/themes/jqt/img/toggleOn.png303408744#303408744#0(0"0(0#0#78"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toggleOn.png8611256128#503"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toggleOn.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toolButton.png ../www/themes/apple/img/toolButton.png
+s303408744.795981
+e303408744.811939
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/toolButton.png
+x../www/themes/apple/img/toolButton.png
+lSLF07#2@43"Copy ../www/themes/apple/img/toolButton.png303408744#303408744#0(0"0(0#0#82"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toolButton.png8609831392#507"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toolButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png ../www/themes/apple/img/toolbar.png
+s303408744.791556
+e303408744.809870
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png
+x../www/themes/apple/img/toolbar.png
+lSLF07#2@40"Copy ../www/themes/apple/img/toolbar.png303408744#303408744#0(0"0(0#0#79"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toolbar.png8610586464#504"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/toolbar.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png ../www/themes/jqt/img/toolbar.png
+s303408744.793571
+e303408744.836108
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/toolbar.png
+x../www/themes/jqt/img/toolbar.png
+lSLF07#2@38"Copy ../www/themes/jqt/img/toolbar.png303408744#303408744#0(0"0(0#0#77"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toolbar.png8601971456#502"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/toolbar.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png ../www/themes/apple/img/whiteButton.png
+s303408744.797858
+e303408744.812070
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png
+x../www/themes/apple/img/whiteButton.png
+lSLF07#2@44"Copy ../www/themes/apple/img/whiteButton.png303408744#303408744#0(0"0(0#0#83"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/whiteButton.png8608897632#508"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/apple/img/whiteButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png ../www/themes/jqt/img/whiteButton.png
+s303408744.800229
+e303408744.836219
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/whiteButton.png
+x../www/themes/jqt/img/whiteButton.png
+lSLF07#2@42"Copy ../www/themes/jqt/img/whiteButton.png303408744#303408744#0(0"0(0#0#81"/Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/whiteButton.png8605198912#506"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/../www/themes/jqt/img/whiteButton.png /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CCpResource build/Debug-iphonesimulator/clickcount-iphone.app/www www
+s303408744.579966
+e303408744.688875
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/clickcount-iphone.app/www
+xwww
+lSLF07#2@8"Copy www303408744#303408744#0(0"0(0#0#47"/Users/tim/clickcount-app/clickcount-iphone/www8610212864#472"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tim/clickcount-app/clickcount-iphone/www /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+
+CGenerateDSYMFile /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app.dSYM /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone
+s303408746.083174
+e303408746.247309
+r1
+xGenerateDSYMFile
+x/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app.dSYM
+x/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/clickcount-iphone.app.dSYM build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone303408746#303408746#0(0"0(0#0#111"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone8612546880#428"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone -o /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app.dSYM0#
+
+CLd /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone normal i386
+s303408745.843661
+e303408746.083061
+r1
+xLd
+x/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone
+xnormal
+xi386
+lSLF07#2@116"Link /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone303408745#303408746#0(0"0(0#0#0"8613528512#1317"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator -F/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator -filelist /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount-iphone.LinkFileList -mmacosx-version-min=10.6 -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/tim/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -o /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/clickcount-iphone0#
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-30E9A9A110B758320022D3BA.sh
+s303408744.471947
+e303408744.564927
+r1
+xPhaseScriptExecution
+xCopy PhoneGap Javascript
+x/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-30E9A9A110B758320022D3BA.sh
+omake: Nothing to be done for `all'.
+ocp /Users/tim/Documents/PhoneGapLib/javascripts/phonegap.js /Users/tim/clickcount-app/clickcount-iphone/www/phonegap.js
+lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'303408744#303408744#0(156"make: Nothing to be done for `all'.cp /Users/tim/Documents/PhoneGapLib/javascripts/phonegap.js /Users/tim/clickcount-app/clickcount-iphone/www/phonegap.js2(13@36"make: Nothing to be done for `all'.303408744#0#36#0(1@0"0(13@120"cp /Users/tim/Documents/PhoneGapLib/javascripts/phonegap.js /Users/tim/clickcount-app/clickcount-iphone/www/phonegap.js303408744#36#120#0(1@0"0(0#0#0"8612411936#18077"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER tim    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/tim/clickcount-app/clickcount-iphone/build    setenv BUILD_ROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH clickcount-iphone.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/clickcount-iphone.dst    setenv DWARF_DSYM_FILE_NAME clickcount-iphone.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH clickcount-iphone.app/Executables    setenv EXECUTABLE_FOLDER_PATH clickcount-iphone.app    setenv EXECUTABLE_NAME clickcount-iphone    setenv EXECUTABLE_PATH clickcount-iphone.app/clickcount-iphone    setenv FILE_LIST /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH clickcount-iphone.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME clickcount-iphone.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER clickcount_iphone_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE clickcount_iphone-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH clickcount-iphone.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/clickcount-iphone.dst/Users/tim/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER tim    setenv INSTALL_PATH /Users/tim/Applications    setenv INSTALL_ROOT /tmp/clickcount-iphone.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH clickcount-iphone.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount-iphone.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal    setenv OBJROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH clickcount-iphone.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/tim/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/PkgInfo    setenv PKGINFO_PATH clickcount-iphone.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH clickcount-iphone.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH clickcount-iphone.app/PrivateHeaders    setenv PRODUCT_NAME clickcount-iphone    setenv PRODUCT_SETTINGS_PATH /Users/tim/clickcount-app/clickcount-iphone/clickcount_iphone-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT clickcount-iphone    setenv PROJECT_DERIVED_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/DerivedSources    setenv PROJECT_DIR /Users/tim/clickcount-app/clickcount-iphone    setenv PROJECT_FILE_PATH /Users/tim/clickcount-app/clickcount-iphone/clickcount-iphone.xcodeproj    setenv PROJECT_NAME clickcount-iphone    setenv PROJECT_TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build    setenv PUBLIC_HEADERS_FOLDER_PATH clickcount-iphone.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH clickcount-iphone.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_NAME iphonesimulator4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH clickcount-iphone.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH clickcount-iphone.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/tim/clickcount-app/clickcount-iphone    setenv SRCROOT /Users/tim/clickcount-app/clickcount-iphone    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/SymbolRepositories    setenv SYMROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME clickcount-iphone    setenv TARGET_BUILD_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv TARGET_NAME clickcount-iphone    setenv TARGET_TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_FILES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_ROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH clickcount-iphone.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER tim    setenv USER_APPS_DIR /Users/tim/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/tim/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/tim/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH clickcount-iphone.app/version.plist    setenv VERSION_INFO_BUILDER tim    setenv VERSION_INFO_FILE clickcount-iphone_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:clickcount-iphone  PROJECT:clickcount-iphone-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME clickcount-iphone.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-30E9A9A110B758320022D3BA.sh0#
+
+CPhaseScriptExecution "Touch www folder" /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-304B58A110DAC018002A0835.sh
+s303408744.565505
+e303408744.579867
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'303408744#303408744#0(0"0(0#0#0"8610296512#18077"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER tim    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/tim/clickcount-app/clickcount-iphone/build    setenv BUILD_ROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH clickcount-iphone.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/clickcount-iphone.dst    setenv DWARF_DSYM_FILE_NAME clickcount-iphone.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH clickcount-iphone.app/Executables    setenv EXECUTABLE_FOLDER_PATH clickcount-iphone.app    setenv EXECUTABLE_NAME clickcount-iphone    setenv EXECUTABLE_PATH clickcount-iphone.app/clickcount-iphone    setenv FILE_LIST /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH clickcount-iphone.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME clickcount-iphone.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER clickcount_iphone_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE clickcount_iphone-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH clickcount-iphone.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/clickcount-iphone.dst/Users/tim/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER tim    setenv INSTALL_PATH /Users/tim/Applications    setenv INSTALL_ROOT /tmp/clickcount-iphone.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH clickcount-iphone.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal/i386/clickcount-iphone.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Objects-normal    setenv OBJROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH clickcount-iphone.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/tim/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/PkgInfo    setenv PKGINFO_PATH clickcount-iphone.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH clickcount-iphone.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH clickcount-iphone.app/PrivateHeaders    setenv PRODUCT_NAME clickcount-iphone    setenv PRODUCT_SETTINGS_PATH /Users/tim/clickcount-app/clickcount-iphone/clickcount_iphone-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT clickcount-iphone    setenv PROJECT_DERIVED_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/DerivedSources    setenv PROJECT_DIR /Users/tim/clickcount-app/clickcount-iphone    setenv PROJECT_FILE_PATH /Users/tim/clickcount-app/clickcount-iphone/clickcount-iphone.xcodeproj    setenv PROJECT_NAME clickcount-iphone    setenv PROJECT_TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build    setenv PUBLIC_HEADERS_FOLDER_PATH clickcount-iphone.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH clickcount-iphone.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_NAME iphonesimulator4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH clickcount-iphone.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH clickcount-iphone.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/tim/clickcount-app/clickcount-iphone    setenv SRCROOT /Users/tim/clickcount-app/clickcount-iphone    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/SymbolRepositories    setenv SYMROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME clickcount-iphone    setenv TARGET_BUILD_DIR /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator    setenv TARGET_NAME clickcount-iphone    setenv TARGET_TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_FILES_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_FILE_DIR /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build    setenv TEMP_ROOT /Users/tim/clickcount-app/clickcount-iphone/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH clickcount-iphone.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER tim    setenv USER_APPS_DIR /Users/tim/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/tim/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/tim/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH clickcount-iphone.app/version.plist    setenv VERSION_INFO_BUILDER tim    setenv VERSION_INFO_FILE clickcount-iphone_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:clickcount-iphone  PROJECT:clickcount-iphone-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME clickcount-iphone.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/Script-304B58A110DAC018002A0835.sh0#
+
+CProcessInfoPlistFile /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/Info.plist clickcount_iphone-Info.plist
+s303408744.468209
+e303408744.471844
+r1
+xProcessInfoPlistFile
+x/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/Info.plist
+xclickcount_iphone-Info.plist
+lSLF07#2@36"Process clickcount_iphone-Info.plist303408744#303408744#0(0"0(0#0#72"/Users/tim/clickcount-app/clickcount-iphone/clickcount_iphone-Info.plist8609460160#524"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility clickcount_iphone-Info.plist -genpkginfo /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app/Info.plist0#
+
+CProcessPCH /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/clickcount_iphone_Prefix-gosvobasvbjjnibrhkrrgxepykce/clickcount_iphone_Prefix.pch.gch clickcount_iphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303408744.866211
+e303408745.670194
+r1
+xProcessPCH
+x/var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/clickcount_iphone_Prefix-gosvobasvbjjnibrhkrrgxepykce/clickcount_iphone_Prefix.pch.gch
+xclickcount_iphone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile clickcount_iphone_Prefix.pch303408744#303408745#0(0"0(0#0#72"/Users/tim/clickcount-app/clickcount-iphone/clickcount_iphone_Prefix.pch8612936576#2081"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-generated-files.hmap -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-own-target-headers.hmap -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-all-target-headers.hmap -iquote /Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/clickcount-iphone-project-headers.hmap -F/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator -iquote/Users/tim/Documents/PhoneGapLib/Classes -I/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/include -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources/i386 -I/Users/tim/clickcount-app/clickcount-iphone/build/clickcount-iphone.build/Debug-iphonesimulator/clickcount-iphone.build/DerivedSources -c /Users/tim/clickcount-app/clickcount-iphone/clickcount_iphone_Prefix.pch -o /var/folders/1K/1KqAOZ8WFrayKO7EHlpF4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/clickcount_iphone_Prefix-gosvobasvbjjnibrhkrrgxepykce/clickcount_iphone_Prefix.pch.gch0#
+
+CTouch /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app
+s303408746.247403
+e303408746.250200
+r1
+xTouch
+x/Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app
+lSLF07#2@99"Touch /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app303408746#303408746#0(0"0(0#0#0"8612011136#298"    cd /Users/tim/clickcount-app/clickcount-iphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tim/clickcount-app/clickcount-iphone/build/Debug-iphonesimulator/clickcount-iphone.app0#
+

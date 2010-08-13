@@ -1,0 +1,644 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* clickcount_iphoneAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* clickcount_iphoneAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		220DDEE81215A45900ED9D24 /* body-height-fix.js in Sources */ = {isa = PBXBuildFile; fileRef = 220DDEB21215A45900ED9D24 /* body-height-fix.js */; };
+		220DDEE91215A45900ED9D24 /* clickcount.css in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEB31215A45900ED9D24 /* clickcount.css */; };
+		220DDEEA1215A45900ED9D24 /* clickcount.js in Sources */ = {isa = PBXBuildFile; fileRef = 220DDEB41215A45900ED9D24 /* clickcount.js */; };
+		220DDEEB1215A45900ED9D24 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEB51215A45900ED9D24 /* index.html */; };
+		220DDEEC1215A45900ED9D24 /* jqtouch.css in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEB71215A45900ED9D24 /* jqtouch.css */; };
+		220DDEED1215A45900ED9D24 /* jqtouch.js in Sources */ = {isa = PBXBuildFile; fileRef = 220DDEB81215A45900ED9D24 /* jqtouch.js */; };
+		220DDEEE1215A45900ED9D24 /* jquery-1.4.2.js in Sources */ = {isa = PBXBuildFile; fileRef = 220DDEB91215A45900ED9D24 /* jquery-1.4.2.js */; };
+		220DDEEF1215A45900ED9D24 /* jquery-1.4.2.min.js in Sources */ = {isa = PBXBuildFile; fileRef = 220DDEBA1215A45900ED9D24 /* jquery-1.4.2.min.js */; };
+		220DDEF01215A45900ED9D24 /* phonegap.js in Sources */ = {isa = PBXBuildFile; fileRef = 220DDEBB1215A45900ED9D24 /* phonegap.js */; };
+		220DDEF11215A45900ED9D24 /* actionButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEBF1215A45900ED9D24 /* actionButton.png */; };
+		220DDEF21215A45900ED9D24 /* backButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC01215A45900ED9D24 /* backButton.png */; };
+		220DDEF31215A45900ED9D24 /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC11215A45900ED9D24 /* cancel.png */; };
+		220DDEF41215A45900ED9D24 /* chevron.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC21215A45900ED9D24 /* chevron.png */; };
+		220DDEF51215A45900ED9D24 /* grayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC31215A45900ED9D24 /* grayButton.png */; };
+		220DDEF61215A45900ED9D24 /* greenButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC41215A45900ED9D24 /* greenButton.png */; };
+		220DDEF71215A45900ED9D24 /* listArrowSel.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC51215A45900ED9D24 /* listArrowSel.png */; };
+		220DDEF81215A45900ED9D24 /* listGroup.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC61215A45900ED9D24 /* listGroup.png */; };
+		220DDEF91215A45900ED9D24 /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC71215A45900ED9D24 /* loading.gif */; };
+		220DDEFA1215A45900ED9D24 /* on_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC81215A45900ED9D24 /* on_off.png */; };
+		220DDEFB1215A45900ED9D24 /* pinstripes.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEC91215A45900ED9D24 /* pinstripes.png */; };
+		220DDEFC1215A45900ED9D24 /* redButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDECA1215A45900ED9D24 /* redButton.png */; };
+		220DDEFD1215A45900ED9D24 /* selection.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDECB1215A45900ED9D24 /* selection.png */; };
+		220DDEFE1215A45900ED9D24 /* thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDECC1215A45900ED9D24 /* thumb.png */; };
+		220DDEFF1215A45900ED9D24 /* toggle.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDECD1215A45900ED9D24 /* toggle.png */; };
+		220DDF001215A45900ED9D24 /* toggleOn.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDECE1215A45900ED9D24 /* toggleOn.png */; };
+		220DDF011215A45900ED9D24 /* toolbar.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDECF1215A45900ED9D24 /* toolbar.png */; };
+		220DDF021215A45900ED9D24 /* toolButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED01215A45900ED9D24 /* toolButton.png */; };
+		220DDF031215A45900ED9D24 /* whiteButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED11215A45900ED9D24 /* whiteButton.png */; };
+		220DDF041215A45900ED9D24 /* theme.css in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED21215A45900ED9D24 /* theme.css */; };
+		220DDF051215A45900ED9D24 /* activeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED51215A45900ED9D24 /* activeButton.png */; };
+		220DDF061215A45900ED9D24 /* back_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED61215A45900ED9D24 /* back_button.png */; };
+		220DDF071215A45900ED9D24 /* back_button_clicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED71215A45900ED9D24 /* back_button_clicked.png */; };
+		220DDF081215A45900ED9D24 /* blueButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED81215A45900ED9D24 /* blueButton.png */; };
+		220DDF091215A45900ED9D24 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDED91215A45900ED9D24 /* button.png */; };
+		220DDF0A1215A45900ED9D24 /* button_clicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEDA1215A45900ED9D24 /* button_clicked.png */; };
+		220DDF0B1215A45900ED9D24 /* chevron.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEDB1215A45900ED9D24 /* chevron.png */; };
+		220DDF0C1215A45900ED9D24 /* chevron_circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEDC1215A45900ED9D24 /* chevron_circle.png */; };
+		220DDF0D1215A45900ED9D24 /* grayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEDD1215A45900ED9D24 /* grayButton.png */; };
+		220DDF0E1215A45900ED9D24 /* greenButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEDE1215A45900ED9D24 /* greenButton.png */; };
+		220DDF0F1215A45900ED9D24 /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEDF1215A45900ED9D24 /* loading.gif */; };
+		220DDF101215A45900ED9D24 /* on_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE01215A45900ED9D24 /* on_off.png */; };
+		220DDF111215A45900ED9D24 /* redButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE11215A45900ED9D24 /* redButton.png */; };
+		220DDF121215A45900ED9D24 /* rowhead.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE21215A45900ED9D24 /* rowhead.png */; };
+		220DDF131215A45900ED9D24 /* toggle.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE31215A45900ED9D24 /* toggle.png */; };
+		220DDF141215A45900ED9D24 /* toggleOn.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE41215A45900ED9D24 /* toggleOn.png */; };
+		220DDF151215A45900ED9D24 /* toolbar.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE51215A45900ED9D24 /* toolbar.png */; };
+		220DDF161215A45900ED9D24 /* whiteButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE61215A45900ED9D24 /* whiteButton.png */; };
+		220DDF171215A45900ED9D24 /* theme.css in Resources */ = {isa = PBXBuildFile; fileRef = 220DDEE71215A45900ED9D24 /* theme.css */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		301BF552109A68D80062928A /* libPhoneGapLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF535109A57CC0062928A /* libPhoneGapLib.a */; };
+		301BF570109A69640062928A /* www in Resources */ = {isa = PBXBuildFile; fileRef = 301BF56E109A69640062928A /* www */; };
+		301BF5B5109A6A2B0062928A /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5B4109A6A2B0062928A /* AddressBook.framework */; };
+		301BF5B7109A6A2B0062928A /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5B6109A6A2B0062928A /* AddressBookUI.framework */; };
+		301BF5B9109A6A2B0062928A /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5B8109A6A2B0062928A /* AudioToolbox.framework */; };
+		301BF5BB109A6A2B0062928A /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5BA109A6A2B0062928A /* AVFoundation.framework */; };
+		301BF5BD109A6A2B0062928A /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5BC109A6A2B0062928A /* CFNetwork.framework */; };
+		301BF5BF109A6A2B0062928A /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5BE109A6A2B0062928A /* CoreLocation.framework */; };
+		301BF5C1109A6A2B0062928A /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5C0109A6A2B0062928A /* MediaPlayer.framework */; };
+		301BF5C3109A6A2B0062928A /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5C2109A6A2B0062928A /* QuartzCore.framework */; };
+		301BF5C5109A6A2B0062928A /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5C4109A6A2B0062928A /* SystemConfiguration.framework */; };
+		302CC88810CD8CCE00C49659 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 302CC88610CD8CCE00C49659 /* Default.png */; };
+		302CC88910CD8CCE00C49659 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 302CC88710CD8CCE00C49659 /* icon.png */; };
+		3053AC6F109B7857006FCFE7 /* VERSION in Resources */ = {isa = PBXBuildFile; fileRef = 3053AC6E109B7857006FCFE7 /* VERSION */; };
+		305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 305D5FD0115AB8F900A74A75 /* MobileCoreServices.framework */; };
+		30E1352710E2C1420031B30D /* PhoneGap.plist in Resources */ = {isa = PBXBuildFile; fileRef = 30E1352610E2C1420031B30D /* PhoneGap.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		301BF534109A57CC0062928A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 301BF52D109A57CC0062928A /* PhoneGapLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D2AAC07E0554694100DB518D;
+			remoteInfo = PhoneGapLib;
+		};
+		301BF550109A68C00062928A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 301BF52D109A57CC0062928A /* PhoneGapLib.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D2AAC07D0554694100DB518D;
+			remoteInfo = PhoneGapLib;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* clickcount_iphoneAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = clickcount_iphoneAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* clickcount_iphoneAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = clickcount_iphoneAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* clickcount-iphone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "clickcount-iphone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		220DDEB21215A45900ED9D24 /* body-height-fix.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = "body-height-fix.js"; path = "../www/body-height-fix.js"; sourceTree = SOURCE_ROOT; };
+		220DDEB31215A45900ED9D24 /* clickcount.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = clickcount.css; path = ../www/clickcount.css; sourceTree = SOURCE_ROOT; };
+		220DDEB41215A45900ED9D24 /* clickcount.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = clickcount.js; path = ../www/clickcount.js; sourceTree = SOURCE_ROOT; };
+		220DDEB51215A45900ED9D24 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = ../www/index.html; sourceTree = SOURCE_ROOT; };
+		220DDEB71215A45900ED9D24 /* jqtouch.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = jqtouch.css; sourceTree = "<group>"; };
+		220DDEB81215A45900ED9D24 /* jqtouch.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jqtouch.js; sourceTree = "<group>"; };
+		220DDEB91215A45900ED9D24 /* jquery-1.4.2.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "jquery-1.4.2.js"; sourceTree = "<group>"; };
+		220DDEBA1215A45900ED9D24 /* jquery-1.4.2.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "jquery-1.4.2.min.js"; sourceTree = "<group>"; };
+		220DDEBB1215A45900ED9D24 /* phonegap.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = phonegap.js; path = ../www/phonegap.js; sourceTree = SOURCE_ROOT; };
+		220DDEBF1215A45900ED9D24 /* actionButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = actionButton.png; sourceTree = "<group>"; };
+		220DDEC01215A45900ED9D24 /* backButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backButton.png; sourceTree = "<group>"; };
+		220DDEC11215A45900ED9D24 /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
+		220DDEC21215A45900ED9D24 /* chevron.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chevron.png; sourceTree = "<group>"; };
+		220DDEC31215A45900ED9D24 /* grayButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grayButton.png; sourceTree = "<group>"; };
+		220DDEC41215A45900ED9D24 /* greenButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenButton.png; sourceTree = "<group>"; };
+		220DDEC51215A45900ED9D24 /* listArrowSel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = listArrowSel.png; sourceTree = "<group>"; };
+		220DDEC61215A45900ED9D24 /* listGroup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = listGroup.png; sourceTree = "<group>"; };
+		220DDEC71215A45900ED9D24 /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loading.gif; sourceTree = "<group>"; };
+		220DDEC81215A45900ED9D24 /* on_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = on_off.png; sourceTree = "<group>"; };
+		220DDEC91215A45900ED9D24 /* pinstripes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pinstripes.png; sourceTree = "<group>"; };
+		220DDECA1215A45900ED9D24 /* redButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redButton.png; sourceTree = "<group>"; };
+		220DDECB1215A45900ED9D24 /* selection.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selection.png; sourceTree = "<group>"; };
+		220DDECC1215A45900ED9D24 /* thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb.png; sourceTree = "<group>"; };
+		220DDECD1215A45900ED9D24 /* toggle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toggle.png; sourceTree = "<group>"; };
+		220DDECE1215A45900ED9D24 /* toggleOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toggleOn.png; sourceTree = "<group>"; };
+		220DDECF1215A45900ED9D24 /* toolbar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolbar.png; sourceTree = "<group>"; };
+		220DDED01215A45900ED9D24 /* toolButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolButton.png; sourceTree = "<group>"; };
+		220DDED11215A45900ED9D24 /* whiteButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whiteButton.png; sourceTree = "<group>"; };
+		220DDED21215A45900ED9D24 /* theme.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = theme.css; sourceTree = "<group>"; };
+		220DDED51215A45900ED9D24 /* activeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = activeButton.png; sourceTree = "<group>"; };
+		220DDED61215A45900ED9D24 /* back_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back_button.png; sourceTree = "<group>"; };
+		220DDED71215A45900ED9D24 /* back_button_clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back_button_clicked.png; sourceTree = "<group>"; };
+		220DDED81215A45900ED9D24 /* blueButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueButton.png; sourceTree = "<group>"; };
+		220DDED91215A45900ED9D24 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		220DDEDA1215A45900ED9D24 /* button_clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_clicked.png; sourceTree = "<group>"; };
+		220DDEDB1215A45900ED9D24 /* chevron.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chevron.png; sourceTree = "<group>"; };
+		220DDEDC1215A45900ED9D24 /* chevron_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chevron_circle.png; sourceTree = "<group>"; };
+		220DDEDD1215A45900ED9D24 /* grayButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grayButton.png; sourceTree = "<group>"; };
+		220DDEDE1215A45900ED9D24 /* greenButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenButton.png; sourceTree = "<group>"; };
+		220DDEDF1215A45900ED9D24 /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loading.gif; sourceTree = "<group>"; };
+		220DDEE01215A45900ED9D24 /* on_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = on_off.png; sourceTree = "<group>"; };
+		220DDEE11215A45900ED9D24 /* redButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redButton.png; sourceTree = "<group>"; };
+		220DDEE21215A45900ED9D24 /* rowhead.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rowhead.png; sourceTree = "<group>"; };
+		220DDEE31215A45900ED9D24 /* toggle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toggle.png; sourceTree = "<group>"; };
+		220DDEE41215A45900ED9D24 /* toggleOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toggleOn.png; sourceTree = "<group>"; };
+		220DDEE51215A45900ED9D24 /* toolbar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolbar.png; sourceTree = "<group>"; };
+		220DDEE61215A45900ED9D24 /* whiteButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whiteButton.png; sourceTree = "<group>"; };
+		220DDEE71215A45900ED9D24 /* theme.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = theme.css; sourceTree = "<group>"; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		301BF52D109A57CC0062928A /* PhoneGapLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = PhoneGapLib.xcodeproj; sourceTree = PHONEGAPLIB; };
+		301BF56E109A69640062928A /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = SOURCE_ROOT; };
+		301BF5B4109A6A2B0062928A /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		301BF5B6109A6A2B0062928A /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		301BF5B8109A6A2B0062928A /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		301BF5BA109A6A2B0062928A /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		301BF5BC109A6A2B0062928A /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		301BF5BE109A6A2B0062928A /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		301BF5C0109A6A2B0062928A /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		301BF5C2109A6A2B0062928A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		301BF5C4109A6A2B0062928A /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		302CC88610CD8CCE00C49659 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		302CC88710CD8CCE00C49659 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		3053AC6E109B7857006FCFE7 /* VERSION */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VERSION; sourceTree = PHONEGAPLIB; };
+		305D5FD0115AB8F900A74A75 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		30E1352610E2C1420031B30D /* PhoneGap.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PhoneGap.plist; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* clickcount_iphone_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = clickcount_iphone_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* clickcount_iphone-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "clickcount_iphone-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				301BF552109A68D80062928A /* libPhoneGapLib.a in Frameworks */,
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				301BF5B5109A6A2B0062928A /* AddressBook.framework in Frameworks */,
+				301BF5B7109A6A2B0062928A /* AddressBookUI.framework in Frameworks */,
+				301BF5B9109A6A2B0062928A /* AudioToolbox.framework in Frameworks */,
+				301BF5BB109A6A2B0062928A /* AVFoundation.framework in Frameworks */,
+				301BF5BD109A6A2B0062928A /* CFNetwork.framework in Frameworks */,
+				301BF5BF109A6A2B0062928A /* CoreLocation.framework in Frameworks */,
+				301BF5C1109A6A2B0062928A /* MediaPlayer.framework in Frameworks */,
+				301BF5C3109A6A2B0062928A /* QuartzCore.framework in Frameworks */,
+				301BF5C5109A6A2B0062928A /* SystemConfiguration.framework in Frameworks */,
+				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* clickcount_iphoneAppDelegate.h */,
+				1D3623250D0F684500981E51 /* clickcount_iphoneAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = SOURCE_ROOT;
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* clickcount-iphone.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		220DDEB61215A45900ED9D24 /* jqtouch */ = {
+			isa = PBXGroup;
+			children = (
+				220DDEB71215A45900ED9D24 /* jqtouch.css */,
+				220DDEB81215A45900ED9D24 /* jqtouch.js */,
+				220DDEB91215A45900ED9D24 /* jquery-1.4.2.js */,
+				220DDEBA1215A45900ED9D24 /* jquery-1.4.2.min.js */,
+			);
+			name = jqtouch;
+			path = ../www/jqtouch;
+			sourceTree = SOURCE_ROOT;
+		};
+		220DDEBC1215A45900ED9D24 /* themes */ = {
+			isa = PBXGroup;
+			children = (
+				220DDEBD1215A45900ED9D24 /* apple */,
+				220DDED31215A45900ED9D24 /* jqt */,
+			);
+			name = themes;
+			path = ../www/themes;
+			sourceTree = SOURCE_ROOT;
+		};
+		220DDEBD1215A45900ED9D24 /* apple */ = {
+			isa = PBXGroup;
+			children = (
+				220DDEBE1215A45900ED9D24 /* img */,
+				220DDED21215A45900ED9D24 /* theme.css */,
+			);
+			path = apple;
+			sourceTree = "<group>";
+		};
+		220DDEBE1215A45900ED9D24 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				220DDEBF1215A45900ED9D24 /* actionButton.png */,
+				220DDEC01215A45900ED9D24 /* backButton.png */,
+				220DDEC11215A45900ED9D24 /* cancel.png */,
+				220DDEC21215A45900ED9D24 /* chevron.png */,
+				220DDEC31215A45900ED9D24 /* grayButton.png */,
+				220DDEC41215A45900ED9D24 /* greenButton.png */,
+				220DDEC51215A45900ED9D24 /* listArrowSel.png */,
+				220DDEC61215A45900ED9D24 /* listGroup.png */,
+				220DDEC71215A45900ED9D24 /* loading.gif */,
+				220DDEC81215A45900ED9D24 /* on_off.png */,
+				220DDEC91215A45900ED9D24 /* pinstripes.png */,
+				220DDECA1215A45900ED9D24 /* redButton.png */,
+				220DDECB1215A45900ED9D24 /* selection.png */,
+				220DDECC1215A45900ED9D24 /* thumb.png */,
+				220DDECD1215A45900ED9D24 /* toggle.png */,
+				220DDECE1215A45900ED9D24 /* toggleOn.png */,
+				220DDECF1215A45900ED9D24 /* toolbar.png */,
+				220DDED01215A45900ED9D24 /* toolButton.png */,
+				220DDED11215A45900ED9D24 /* whiteButton.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		220DDED31215A45900ED9D24 /* jqt */ = {
+			isa = PBXGroup;
+			children = (
+				220DDED41215A45900ED9D24 /* img */,
+				220DDEE71215A45900ED9D24 /* theme.css */,
+			);
+			path = jqt;
+			sourceTree = "<group>";
+		};
+		220DDED41215A45900ED9D24 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				220DDED51215A45900ED9D24 /* activeButton.png */,
+				220DDED61215A45900ED9D24 /* back_button.png */,
+				220DDED71215A45900ED9D24 /* back_button_clicked.png */,
+				220DDED81215A45900ED9D24 /* blueButton.png */,
+				220DDED91215A45900ED9D24 /* button.png */,
+				220DDEDA1215A45900ED9D24 /* button_clicked.png */,
+				220DDEDB1215A45900ED9D24 /* chevron.png */,
+				220DDEDC1215A45900ED9D24 /* chevron_circle.png */,
+				220DDEDD1215A45900ED9D24 /* grayButton.png */,
+				220DDEDE1215A45900ED9D24 /* greenButton.png */,
+				220DDEDF1215A45900ED9D24 /* loading.gif */,
+				220DDEE01215A45900ED9D24 /* on_off.png */,
+				220DDEE11215A45900ED9D24 /* redButton.png */,
+				220DDEE21215A45900ED9D24 /* rowhead.png */,
+				220DDEE31215A45900ED9D24 /* toggle.png */,
+				220DDEE41215A45900ED9D24 /* toggleOn.png */,
+				220DDEE51215A45900ED9D24 /* toolbar.png */,
+				220DDEE61215A45900ED9D24 /* whiteButton.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				301BF56E109A69640062928A /* www */,
+				220DDEB21215A45900ED9D24 /* body-height-fix.js */,
+				220DDEB31215A45900ED9D24 /* clickcount.css */,
+				220DDEB41215A45900ED9D24 /* clickcount.js */,
+				220DDEB51215A45900ED9D24 /* index.html */,
+				220DDEB61215A45900ED9D24 /* jqtouch */,
+				220DDEBB1215A45900ED9D24 /* phonegap.js */,
+				220DDEBC1215A45900ED9D24 /* themes */,
+				301BF52D109A57CC0062928A /* PhoneGapLib.xcodeproj */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				307C750510C5A3420062BCA9 /* Plugins */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* clickcount_iphone_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				30E1352610E2C1420031B30D /* PhoneGap.plist */,
+				302CC88610CD8CCE00C49659 /* Default.png */,
+				302CC88710CD8CCE00C49659 /* icon.png */,
+				3053AC6E109B7857006FCFE7 /* VERSION */,
+				8D1107310486CEB800E47090 /* clickcount_iphone-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				301BF5B4109A6A2B0062928A /* AddressBook.framework */,
+				301BF5B6109A6A2B0062928A /* AddressBookUI.framework */,
+				301BF5B8109A6A2B0062928A /* AudioToolbox.framework */,
+				301BF5BA109A6A2B0062928A /* AVFoundation.framework */,
+				301BF5BC109A6A2B0062928A /* CFNetwork.framework */,
+				301BF5BE109A6A2B0062928A /* CoreLocation.framework */,
+				301BF5C0109A6A2B0062928A /* MediaPlayer.framework */,
+				301BF5C2109A6A2B0062928A /* QuartzCore.framework */,
+				301BF5C4109A6A2B0062928A /* SystemConfiguration.framework */,
+				305D5FD0115AB8F900A74A75 /* MobileCoreServices.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		301BF52E109A57CC0062928A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				301BF535109A57CC0062928A /* libPhoneGapLib.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		307C750510C5A3420062BCA9 /* Plugins */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Plugins;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* clickcount-iphone */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "clickcount-iphone" */;
+			buildPhases = (
+				30E9A9A110B758320022D3BA /* Copy PhoneGap Javascript */,
+				304B58A110DAC018002A0835 /* Touch www folder */,
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				301BF551109A68C00062928A /* PBXTargetDependency */,
+			);
+			name = "clickcount-iphone";
+			productName = "clickcount-iphone";
+			productReference = 1D6058910D05DD3D006BFB54 /* clickcount-iphone.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "clickcount-iphone" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 301BF52E109A57CC0062928A /* Products */;
+					ProjectRef = 301BF52D109A57CC0062928A /* PhoneGapLib.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* clickcount-iphone */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		301BF535109A57CC0062928A /* libPhoneGapLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libPhoneGapLib.a;
+			remoteRef = 301BF534109A57CC0062928A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				301BF570109A69640062928A /* www in Resources */,
+				3053AC6F109B7857006FCFE7 /* VERSION in Resources */,
+				302CC88810CD8CCE00C49659 /* Default.png in Resources */,
+				302CC88910CD8CCE00C49659 /* icon.png in Resources */,
+				30E1352710E2C1420031B30D /* PhoneGap.plist in Resources */,
+				220DDEE91215A45900ED9D24 /* clickcount.css in Resources */,
+				220DDEEB1215A45900ED9D24 /* index.html in Resources */,
+				220DDEEC1215A45900ED9D24 /* jqtouch.css in Resources */,
+				220DDEF11215A45900ED9D24 /* actionButton.png in Resources */,
+				220DDEF21215A45900ED9D24 /* backButton.png in Resources */,
+				220DDEF31215A45900ED9D24 /* cancel.png in Resources */,
+				220DDEF41215A45900ED9D24 /* chevron.png in Resources */,
+				220DDEF51215A45900ED9D24 /* grayButton.png in Resources */,
+				220DDEF61215A45900ED9D24 /* greenButton.png in Resources */,
+				220DDEF71215A45900ED9D24 /* listArrowSel.png in Resources */,
+				220DDEF81215A45900ED9D24 /* listGroup.png in Resources */,
+				220DDEF91215A45900ED9D24 /* loading.gif in Resources */,
+				220DDEFA1215A45900ED9D24 /* on_off.png in Resources */,
+				220DDEFB1215A45900ED9D24 /* pinstripes.png in Resources */,
+				220DDEFC1215A45900ED9D24 /* redButton.png in Resources */,
+				220DDEFD1215A45900ED9D24 /* selection.png in Resources */,
+				220DDEFE1215A45900ED9D24 /* thumb.png in Resources */,
+				220DDEFF1215A45900ED9D24 /* toggle.png in Resources */,
+				220DDF001215A45900ED9D24 /* toggleOn.png in Resources */,
+				220DDF011215A45900ED9D24 /* toolbar.png in Resources */,
+				220DDF021215A45900ED9D24 /* toolButton.png in Resources */,
+				220DDF031215A45900ED9D24 /* whiteButton.png in Resources */,
+				220DDF041215A45900ED9D24 /* theme.css in Resources */,
+				220DDF051215A45900ED9D24 /* activeButton.png in Resources */,
+				220DDF061215A45900ED9D24 /* back_button.png in Resources */,
+				220DDF071215A45900ED9D24 /* back_button_clicked.png in Resources */,
+				220DDF081215A45900ED9D24 /* blueButton.png in Resources */,
+				220DDF091215A45900ED9D24 /* button.png in Resources */,
+				220DDF0A1215A45900ED9D24 /* button_clicked.png in Resources */,
+				220DDF0B1215A45900ED9D24 /* chevron.png in Resources */,
+				220DDF0C1215A45900ED9D24 /* chevron_circle.png in Resources */,
+				220DDF0D1215A45900ED9D24 /* grayButton.png in Resources */,
+				220DDF0E1215A45900ED9D24 /* greenButton.png in Resources */,
+				220DDF0F1215A45900ED9D24 /* loading.gif in Resources */,
+				220DDF101215A45900ED9D24 /* on_off.png in Resources */,
+				220DDF111215A45900ED9D24 /* redButton.png in Resources */,
+				220DDF121215A45900ED9D24 /* rowhead.png in Resources */,
+				220DDF131215A45900ED9D24 /* toggle.png in Resources */,
+				220DDF141215A45900ED9D24 /* toggleOn.png in Resources */,
+				220DDF151215A45900ED9D24 /* toolbar.png in Resources */,
+				220DDF161215A45900ED9D24 /* whiteButton.png in Resources */,
+				220DDF171215A45900ED9D24 /* theme.css in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		304B58A110DAC018002A0835 /* Touch www folder */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Touch www folder";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "touch -cm ${PROJECT_DIR}/www";
+		};
+		30E9A9A110B758320022D3BA /* Copy PhoneGap Javascript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy PhoneGap Javascript";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C \"${PHONEGAPLIB}\"\necho cp ${PHONEGAPLIB}/javascripts/phonegap.js ${PROJECT_DIR}/www/phonegap.js\ncp \"${PHONEGAPLIB}/javascripts/phonegap.js\" \"${PROJECT_DIR}/www/phonegap.js\"";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* clickcount_iphoneAppDelegate.m in Sources */,
+				220DDEE81215A45900ED9D24 /* body-height-fix.js in Sources */,
+				220DDEEA1215A45900ED9D24 /* clickcount.js in Sources */,
+				220DDEED1215A45900ED9D24 /* jqtouch.js in Sources */,
+				220DDEEE1215A45900ED9D24 /* jquery-1.4.2.js in Sources */,
+				220DDEEF1215A45900ED9D24 /* jquery-1.4.2.min.js in Sources */,
+				220DDEF01215A45900ED9D24 /* phonegap.js in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		301BF551109A68C00062928A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = PhoneGapLib;
+			targetProxy = 301BF550109A68C00062928A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = clickcount_iphone_Prefix.pch;
+				INFOPLIST_FILE = "clickcount_iphone-Info.plist";
+				PRODUCT_NAME = "clickcount-iphone";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = clickcount_iphone_Prefix.pch;
+				INFOPLIST_FILE = "clickcount_iphone-Info.plist";
+				PRODUCT_NAME = "clickcount-iphone";
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-Obj-C",
+				);
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator4.0;
+				USER_HEADER_SEARCH_PATHS = "$(PHONEGAPLIB)/Classes";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-Obj-C",
+				);
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator4.0;
+				USER_HEADER_SEARCH_PATHS = "$(PHONEGAPLIB)/Classes";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "clickcount-iphone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "clickcount-iphone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
